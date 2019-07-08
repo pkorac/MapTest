@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#63f772",
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Regents Park"
@@ -23,7 +23,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "name": "Hampstead Round"
+        "name": "Hampstead Round short"
       },
       "geometry": {
         "type": "LineString",
